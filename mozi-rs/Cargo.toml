@@ -1,0 +1,11 @@
+[package]
+name = "mozi"
+version = "0.1.0"
+edition = "2024"
+description = "a general AI agent framework."
+keywords = [
+  "AI",
+  "AI Agent",
+]
+
+[dependencies]
