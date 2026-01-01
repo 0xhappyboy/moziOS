@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  mozi:
+    build: .
+    image: mozi:latest
+    container_name: mozi
+    stdin_open: true
+    tty: true
+    privileged: true

@@ -10,3 +10,9 @@
 <p align="center">
 <a href="./README_zh-CN.md">简体中文</a> | <a href="./README.md">English</a>
 </p>
+
+## Docker Compose
+
+```
+docker-compose up --builde
+```

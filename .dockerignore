@@ -1,0 +1,14 @@
+target/
+*.img
+*.bin
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+
+.git/
+.gitignore
