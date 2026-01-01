@@ -1,4 +1,4 @@
-<h1>moziOS</h1>
+<h1 align="center">moziOS</h1>
 <h4 align="center">
 An experimental project exploring the possibilities of a composable, self-programmable, and self-evolving operating system based on artificial intelligence.
 <br/>

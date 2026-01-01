@@ -1,4 +1,4 @@
-<h1>moziOS</h1>
+<h1 align="center">moziOS</h1>
 <h4 align="center">
 一个探索基于人工智能的可组合、可自编程和可自演化操作系统可能性的实验项目。
 <br/>
